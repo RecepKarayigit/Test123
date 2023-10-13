@@ -1,1 +1,4 @@
-This file was last modified on $Date$ by $Author$. Revision: $Revision$
+/* @date   $Format: %ci$
+ * @version Commit: $Format: %h$
+ * Tree: $Format: %t$
+ */
