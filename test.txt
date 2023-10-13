@@ -1,3 +1,1 @@
-'$Id$' 
-
-$Date: $ by $Author: $.
+This file was last modified on $Date$ by $Author$. Revision: $Revision$
